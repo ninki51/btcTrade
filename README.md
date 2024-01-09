@@ -4,6 +4,7 @@
 当我们的挂单被交易后，我们迅速在能盈利的时刻卖出，实现获利。
 ![avatar](https://github.com/ninki51/btcTrade/blob/main/trade2.png)
 整个过程完成有程序控制，能迅速捕捉插针行情，迅速卖出
+![avatar](https://github.com/ninki51/btcTrade/blob/main/%E6%B4%BC%E5%9C%B0%E7%AD%96%E7%95%A5%E4%BB%A3%E7%A0%81.png)
 程序使用Go语言编写，需要的朋友联系微信 jianke9982
 
 视频演示网址 https://youtu.be/PRcFrPP6qjI
